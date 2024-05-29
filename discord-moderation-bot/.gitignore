@@ -1,0 +1,6 @@
+// .gitignore
+// File for specifying files and directories to be ignored by Git
+
+node_modules
+.DS_Store
+.env
